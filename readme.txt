@@ -1,5 +1,5 @@
 === Quick ID Viewer ===
-Contributors: wppure, huzaifaalmesbah
+Contributors: huzaifaalmesbah, wppure
 Tags: post id, page id, id viewer, admin tools, quick copy
 Requires at least: 5.0
 Tested up to: 6.7

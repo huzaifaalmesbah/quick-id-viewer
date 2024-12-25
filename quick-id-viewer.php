@@ -3,7 +3,8 @@
  * Plugin Name: Quick ID Viewer
  * Description: Adds an ID display to row actions for selected post types with a settings page to toggle the display.
  * Version: 1.0.0
- * Author: Wp Pure
+ * Author: Huzaifa Al Mesbah
+ * Author URI: https://linkedin.com/in/huzaifaalmesbah
  * Text Domain: quick-id-viewer
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
