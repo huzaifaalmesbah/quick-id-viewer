@@ -2,6 +2,7 @@
 Contributors: huzaifaalmesbah
 Tags: post id, page id, show id, admin-tools, utility
 Stable tag: 1.1.0
+Tested up to: 6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +16,7 @@ This lightweight plugin displays IDs directly in your admin lists with a one-cli
 
 = How to Use =
 
-**For Post/Page IDs:**
+**For Post Type IDs:**
 1. After activation and configuration, navigate to Posts, Pages, or any enabled custom post type in your admin panel
 2. You'll see IDs displayed at the beginning of each row in the list view
 3. Simply click on any ID to instantly copy it to your clipboard
